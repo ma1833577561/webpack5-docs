@@ -6,7 +6,7 @@ module.exports = {
   base: "/",
   lang: "zh-CN",
   head: [["link", { rel: "icon", href: "/imgs/favicon.ico" }]],
-  title: "尚硅谷 Web 前端之 Webpack5 教程",
+  title: " 前端爱好者部落 Web 前端之 Webpack5 教程",
   description: "Webpack5从小白到大神",
   // 主题和它的配置
   theme: "@vuepress/theme-default",
